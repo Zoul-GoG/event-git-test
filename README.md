@@ -1,4 +1,4 @@
-<h1 style="color: red, font-size : 25px">event-git-test</h1>
+# event-git-test
 
 # Welcome to this presentation !
 
