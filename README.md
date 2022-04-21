@@ -1,4 +1,4 @@
-# event-git-test
+# EVENT-GIT-TEST
 
 # Welcome to this presentation !
 
